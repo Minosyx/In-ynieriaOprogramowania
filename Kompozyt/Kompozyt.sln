@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kompozyt", "Kompozyt\Kompozyt.csproj", "{C3788ABD-02D8-49B9-B0BC-FA2834954D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odwiedzający", "Odwiedzający\Odwiedzający.csproj", "{F986CBFE-5C94-4330-A6DD-56F4D6923A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{65B671E0-A57D-4367-BA5C-0F8A84CBC30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3788ABD-02D8-49B9-B0BC-FA2834954D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3788ABD-02D8-49B9-B0BC-FA2834954D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3788ABD-02D8-49B9-B0BC-FA2834954D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3788ABD-02D8-49B9-B0BC-FA2834954D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F986CBFE-5C94-4330-A6DD-56F4D6923A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F986CBFE-5C94-4330-A6DD-56F4D6923A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F986CBFE-5C94-4330-A6DD-56F4D6923A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F986CBFE-5C94-4330-A6DD-56F4D6923A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B671E0-A57D-4367-BA5C-0F8A84CBC30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B671E0-A57D-4367-BA5C-0F8A84CBC30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B671E0-A57D-4367-BA5C-0F8A84CBC30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B671E0-A57D-4367-BA5C-0F8A84CBC30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75E754F-13AA-481C-9E2D-E6D911D5AA8D}
+	EndGlobalSection
+EndGlobal
